@@ -1,1 +1,1 @@
-# ftl_pausemenu
+Upravení vzhledu Mapy / Celeho UI
